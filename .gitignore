@@ -2,5 +2,5 @@
 .DS_Store
 
 #Sublime Workspace and Project files
-.sublime-workspace
-.sublime-project
+*.sublime-workspace
+*.sublime-project
